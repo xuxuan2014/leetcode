@@ -1,4 +1,7 @@
 # leetcode
-Xuan's solutions to Leetcode problems
-***problem_1 twoSum mainly uses the knowledge of dictionary. Here we attempt to record the positions of num in nums in dict. 
-   Notice there is an exchange in the positions of the two target numbers in returned result.
+第一遍：解题思路来自网络
+
+reference:
+1.https://blog.csdn.net/minione_2016/article/details/78855124
+1_1.https://www.jianshu.com/p/b71fc7307e42
+2.https://blog.csdn.net/ma412410029/article/details/80772965
