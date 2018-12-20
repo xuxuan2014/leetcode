@@ -18,3 +18,5 @@ reference:
 20.https://blog.csdn.net/qq_34364995/article/details/80274117
 
 21.https://blog.csdn.net/gleam_/article/details/80149010
+
+28 https://www.cnblogs.com/ganganloveu/p/3753981.html #standard kmp
