@@ -1,5 +1,5 @@
 # leetcode
-Fist round: some of the ideas are from internet 
+First round: some of the ideas are from internet 
 
 reference:
 
